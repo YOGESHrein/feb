@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(31, 29, 29);
+   
+
+}
+.pagecover1 {
+    margin-left: 20%;
+    background-color: rgb(253, 250, 246);
+    width: 1150Px;
+    height: 980px;
+}
+.head1{
+    text-align: center;
+}
+.image{
+    position: absolute;
+}
+.img{
+    margin-left: 75%;
+    margin-top: 2%;
+}
+.add{
+    font-size: 190%;
+    margin-left: 8%;
+    }
+.aln{
+    
+  
+    position: absolute;  
+   
+}
+.head2{
+    font-size: 150%;
+    margin-top: 23%;
+    margin-left: 65%
+}
+.career{
+    margin-left: 8%;
+}
+.obj{
+    margin-left: 15%;
+    font-size: 120%;
+}
+.obj1{
+    margin-left: 12.7%;
+    font-size: 120%;
+}
+.edu{
+    margin-left: 8%;
+}
+table, td, th {
+    border: 1px solid black;
+    margin-left: 12.5%;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+  th {
+    height: 60px;
+    background-color: gray;
+  }
+td{
+    height: 50px;
+}
+h2{
+    margin-left: 8%;
+}
+ul{
+    margin-left: 10%;
+    font-size: 120%;
+    list-style: circle;
+}
+.pagecover2 {
+    margin-left: 20%;
+    margin-top: 1%;
+    background-color: rgb(253, 250, 246);
+    width: 1150Px;
+    height: 980px;
+}
+
+.dec{
+    margin-left: 15%;
+    font-size: 120%;
+}
+.dec2{
+    margin-left: 12.7%;
+    font-size: 120%;
+}
+.space{
+  padding: 2%;
+}
+.sign{
+    margin-left: 82%;
+}
+.sign2{
+    margin-left: 82%;
+}

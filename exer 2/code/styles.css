@@ -1,0 +1,437 @@
+body{
+    background: black;
+
+
+}
+.background{
+    margin-left: 25%;
+    background-color: rgb(255, 255, 255);
+    height: 969px;
+    width:900px;
+    
+}
+.yel{
+    margin-top: 90px;
+    position: absolute;
+    background-color: yellow;
+    height: 130px;
+   width: 900px;
+
+}
+.black{
+    background-color: rgb(2, 2, 29);
+    height: 969px;
+    width: 280px;
+    position: absolute;
+}
+
+.img{
+    height: 335px;
+    width: 280px;
+}
+.image{
+    position: absolute;
+}
+.head{
+    margin-top: 110px;
+    margin-left: 18%;
+    position: absolute;
+}
+.pro{
+    margin-left: 18%;
+    margin-top: 160px;
+    font-size: 100%;
+    position: absolute;
+}
+.education{
+    margin-top: 350px;
+    margin-left: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+
+
+}
+
+.major{
+    margin-top: 405px;
+    margin-left: 2%;
+    color: white;
+    position: absolute;
+}
+.lineyellow{
+    
+        
+        border:1.3px solid rgb(63, 194, 23);
+      position: absolute;
+       margin-top: 20.2%;
+       width: 13.18%;
+       margin-left: 1.5%;
+  
+}
+.uni{
+    margin-top: 23%;
+    margin-left: 2.5%;
+    position: absolute;
+    color: white;
+    font-size: small;
+}
+.major2{
+    margin-top: 26%;
+    position: absolute;
+    color: white;
+    margin-left: 2%;
+
+}
+.uni2{
+    margin-top: 27.75%;
+    margin-left: 2.5%;
+    position: absolute;
+    color: white;
+    font-size: small;
+}.education1{
+    margin-top: 30.5%;
+    margin-left: 1.5%;
+    color: rgb(255, 255, 255);
+    position: absolute;
+
+
+}
+.lineyellow2{
+    border:1.3px solid rgb(63, 194, 23);
+  position: absolute;
+   margin-top: 32.2%;
+   width: 13.18%;
+   margin-left: 1.5%;
+}
+.sara{
+    margin-top: 33%;
+    margin-left: 2%;
+    color: white;
+    position: absolute;
+}
+.dir{
+    margin-top: 34.75%;
+    margin-left: 2.5%;
+    position: absolute;
+    color: white;
+    font-size: small;
+}
+.micke{
+    margin-top: 37.4%;
+    margin-left: 2%;
+    color: white;
+    position: absolute;
+}
+.web{
+    margin-top: 39.15%;
+    margin-left: 2.5%;
+    position: absolute;
+    color: white;
+    font-size: small;
+}
+.phoneback{
+    margin-top: 42%;
+    position: absolute;
+    border:10px solid yellow;
+    /*border-left-color: 10px solid yellow;*/
+    width: 260px;
+}
+.phoneback2{
+    position: absolute;
+    border:11px solid rgb(26, 23, 23);
+    margin-left: 10%;
+    margin-top: -4%;
+    width: 222px;
+}
+.phone{
+    color: white;
+    position: absolute;
+    margin-top: -3.9%;
+    margin-left: 1.5%;
+}
+.add{
+    color: white;
+    position: absolute;
+    margin-top: 43.6%;
+    margin-left: 2.60%;
+    font-size: small;
+} 
+.emailback{
+    margin-top: 45%;
+    position: absolute;
+    border:10px solid yellow;
+    /*border-left-color: 10px solid yellow;*/
+    width: 260px;
+}
+.emailback2{
+    position: absolute;
+    border:11px solid rgb(26, 23, 23);
+    margin-left: 10%;
+    margin-top: -4%;
+    width: 222px;
+}
+.mail{
+    color: white;
+    position: absolute;
+    margin-top: -3.9%;
+    margin-left: 1.5%;
+}
+.gmail{
+    color: white;
+    position: absolute;
+    margin-top: 46.6%;
+    margin-left: 2.60%;
+    font-size: small;
+}
+.webback{
+    margin-top: 48%;
+    position: absolute;
+    border:10px solid yellow;
+   
+    width: 260px;
+}
+.webback2{
+    position: absolute;
+    border:11px solid rgb(26, 23, 23);
+    margin-left: 10%;
+    margin-top: -4%;
+    width: 222px;
+}
+.web1{
+    color: white;
+    position: absolute;
+    margin-top: -3.9%;
+    margin-left: 1.5%;
+}
+.urweb{
+    color: white;
+    position: absolute;
+    margin-top: 49.6%;
+    margin-left: 2.60%;
+    font-size: small;
+}
+.about{
+    position: absolute;
+    margin-top: 13.8%;
+    margin-left: 18%;
+   
+   
+}
+.abborder{
+    position: absolute;
+    margin-top: 15.7%;
+    margin-left: 18%;
+    border: 1.3px solid rgb(2, 2, 29);
+    width: 26%;
+}
+.about1{
+    position: absolute;
+    margin-top: 16.4%;
+    margin-left: 18%;
+    width: 27%;
+}
+.work{
+    position: absolute;
+    margin-top: 21%;
+    margin-left: 18%;
+   
+   
+}
+.wkborder{
+    position: absolute;
+    margin-top: 22.9%;
+    margin-left: 18%;
+    border: 1.3px solid rgb(2, 2, 29);
+    width: 26%;
+}
+.year{
+    position: absolute;
+    margin-top: 24.6%;
+    margin-left: 18%;
+   
+   
+}
+.job{
+    position: absolute;
+    margin-top: 24.6%;
+    margin-left: 25%;
+    font-size: medium;   
+   
+}
+.company{
+    position: absolute;
+    margin-top: 25.6%;
+    margin-left: 25%;
+    font-size: small;   
+   
+}
+.details{
+    position: absolute;
+    margin-top: 26.9%;
+    margin-left: 25%;
+    font-size: smaller;   
+    width: 19%;
+   
+}
+.year1{
+    position: absolute;
+    margin-top: 30.5%;
+    margin-left: 18%;
+   
+   
+}
+.job1{
+    position: absolute;
+    margin-top: 30.5%;
+    margin-left: 25%;
+    font-size: medium;   
+   
+}
+.company1{
+    position: absolute;
+    margin-top: 31.5%;
+    margin-left: 25%;
+    font-size: small;   
+   
+}
+.details1{
+    position: absolute;
+    margin-top: 32.8%;
+    margin-left: 25%;
+    font-size: smaller;   
+    width: 19%;
+   
+}
+.year2{
+    position: absolute;
+    margin-top: 36.4%;
+    margin-left: 18%;
+   
+   
+}
+.job2{
+    position: absolute;
+    margin-top: 36.4%;
+    margin-left: 25%;
+    font-size: medium;   
+   
+}
+.company2{
+    position: absolute;
+    margin-top: 37.4%;
+    margin-left: 25%;
+    font-size: small;   
+   
+}
+.details2{
+    position: absolute;
+    margin-top: 38.7%;
+    margin-left: 25%;
+    font-size: smaller;   
+    width: 19%;
+   
+}
+.skill{
+    position: absolute;
+    margin-top: 42.3%;
+    margin-left: 18%;
+   
+   
+}
+.skillborder{
+    position: absolute;
+    margin-top: 44.2%;
+    margin-left: 18%;
+    border: 1.3px solid rgb(2, 2, 29);
+    width: 26%;
+}
+.adobe{
+    position: absolute;
+    margin-top: 45.5%;
+    margin-left: 25%;
+    font-size: medium; 
+    font-style: arial; 
+}
+.adobebr{
+    border: 1.3px solid rgb(3, 38, 41);
+    margin-top: 46.5%;
+    margin-left: 25%;
+    width: 6%;
+    position: absolute;
+
+}
+.adobebr1{
+    border: 1.3px solid rgb(178, 178, 241);
+    margin-top: -1%;
+    margin-left: 74%;
+    width: 25%;
+    position: absolute;
+}.ill{
+    position: absolute;
+    margin-top: 47.8%;
+    margin-left: 25%;
+    font-size: medium; 
+    font-style: arial; 
+}
+.illbr{
+    border: 1.3px solid rgb(3, 38, 41);
+    margin-top: 48.8%;
+    margin-left: 25%;
+    width: 6%;
+    position: absolute;
+
+}
+.illbr1{
+    border: 1.3px solid rgb(178, 178, 241);
+    margin-top: -1%;
+    margin-left: 74%;
+    width: 25%;
+    position: absolute;
+}
+.ind{
+    position: absolute;
+    margin-top: 45.5%;
+    margin-left: 36%;
+    font-size: medium; 
+    font-style: arial; 
+}
+.indbr{
+    border: 1.3px solid rgb(3, 38, 41);
+    margin-top: 46.5%;
+    margin-left: 36%;
+    width: 5.35%;
+    position: absolute;
+
+}
+.indbr1{
+    border: 1.3px solid rgb(178, 178, 241);
+    margin-top: -1%;
+    margin-left: 74%;
+    width: 26%;
+    position: absolute;
+}
+.word{
+    position: absolute;
+    margin-top: 47.8%;
+    margin-left: 36%;
+    font-size: medium; 
+    font-style: arial; 
+}
+.wordbr{
+    border: 1.3px solid rgb(3, 38, 41);
+    margin-top: 48.8%;
+    margin-left: 36%;
+    width: 5.35%;
+    position: absolute;
+
+}
+.wordbr1{
+    border: 1.3px solid rgb(178, 178, 241);
+    margin-top: -1%;
+    margin-left: 74%;
+    width: 26%;
+    position: absolute;
+}
+
+
+
